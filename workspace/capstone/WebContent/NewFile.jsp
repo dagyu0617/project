@@ -5,6 +5,8 @@
 <head>
 <meta charset="UTF-8">
 <title>JSP 게시판 웹 사이트</title>
+<!-- 루트 폴더에 부트스트랩을 참조하는 링크 -->
+<link rel="stylesheet" href="css/bootstrap.css">
 </head>
 <body>
 	<nav class="navbar navbar-default"> <!-- 네비게이션 -->
